@@ -1,0 +1,14 @@
+.div-logo {
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  margin-right: 5px;
+  max-width: 100px;
+}
+
+.icon {
+  max-width: 50px;
+  margin-right: 5px;
+}
